@@ -8,6 +8,8 @@ int getIntValue() {
 }
 
 float getFloatValue() {
+     float var_float = 10.0;
+    return var_float;
     // Declare a variable var_float of type float and set its value to 10.75.
     //return var_float;
 }
