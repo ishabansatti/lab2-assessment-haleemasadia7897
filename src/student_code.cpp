@@ -15,11 +15,14 @@ float getFloatValue() {
 }
 
 char getCharValue() {
+    char var_char = "a";
+    return var_char;
     // Declare a variable var_char of type character and set its value to A.
     //return var_char;
 }
 
 int convertFloatToInt(float value) {
+    int result = (int)var_float;
     // convert value to int.
     return value;
 }
